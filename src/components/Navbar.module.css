@@ -1,0 +1,17 @@
+.Navbar {
+   background-color: black;
+    color:white;
+    font-size: 30px;
+
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    
+}
+
+.items {
+    margin: 10px;
+}

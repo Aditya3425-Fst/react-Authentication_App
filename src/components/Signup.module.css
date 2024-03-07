@@ -1,0 +1,40 @@
+
+
+.head {   
+        border: 2px solid black;
+        height: 50vh;
+        width: 40vw;
+        margin-left: 50vh;
+        margin-top: 25vh;
+        border-radius: 10px;
+        background-image: repeating-linear-gradient(yellow, pink);
+        box-shadow: 0px 0px 2px 7px white;
+    }
+
+    .heading{
+        margin-left: 23vh;
+    }
+
+.label{
+    margin-left: 10vh;
+}
+.input{
+    margin-left: 30px;
+    width: 15vw;
+    height: 25px;
+    margin-top: 10px;
+}
+.btn{
+    margin-left: 15vw;
+    margin-top: 20px;
+    height:30px;
+    width:20vh;
+    background-image: -webkit-linear-gradient(red,white);
+    font-weight:bolder;
+    border-radius: 10px;
+    border-style: none;
+
+}
+body{
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20231107/pngtree-abstract-gradient-texture-background-in-shades-of-purple-and-blue-image_13807947.png');
+}
